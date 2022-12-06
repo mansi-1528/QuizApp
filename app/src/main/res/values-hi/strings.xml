@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">प्रश्नोत्तरी ऐप</string>
+    <string name="true_">सत्य</string>
+    <string name="false_">असत्य</string>
+    <string name="q1">ताजमहल दुनिया के 7 अजूबों में से एक है। </string>
+    <string name="q2">सूंघने के लिए कान जिम्मेदार होते हैं।</string>
+    <string name="q3">एक त्रिभुज में 5 भुजाएँ होती हैं।</string>
+    <string name="q4">चेरी का रंग लाल होता है।</string>
+    <string name="q5">तितलियाँ पक्षी नहीं हैं।</string>
+    <string name="q6">सीएन टॉवर दुनिया के 7 अजूबों में से एक है।</string>
+    <string name="q7">माउंट एवरेस्ट दुनिया का सबसे ऊंचा पर्वत है।</string>
+    <string name="question">Question</string>
+    <string name="alert_text1">\ आपका स्कोर 7 में से " "</string>
+    <string name="alert_text2">\ है \</string>
+    <string name="ignore">नजरअंदाज करो</string>
+    <string name="ok">ठीक है</string>
+    <string name="save">बचाव</string>
+    <string name="menu_3">सहेजे गए परिणाम को रीसेट करें</string>
+    <string name="menu_2">प्रश्न संख्या का चयन करें</string>
+    <string name="menu_1">औसत प्राप्त करें</string>
+    <string name="result">परिणाम</string>
+    <string name="correct">सही उत्तर!!!</string>
+    <string name="incorrect">ग़लत उत्तर.</string>
+    <string name="nothing">फाइल में कुछ नहीं है </string>
+    <string name="remain">शेष</string>
+    <string name="reset">डेटा रीसेट करें</string>
+    <string name="avg">\ आपका औसत है : \</string>
+    <string name="avg1"> " "</string>
+    <string name="avg2">\ प्रयास में से \</string>
+</resources>

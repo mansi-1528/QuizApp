@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/average"
+        android:title="@string/menu_1" />
+    <item
+        android:id="@+id/select_num"
+        android:title="@string/menu_2" />
+    <item
+        android:id="@+id/reset"
+        android:title="@string/menu_3" />
+</menu>

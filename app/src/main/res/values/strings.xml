@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="true_">True</string>
+    <string name="false_">False</string>
+    <string name="q1">"Tajmahal is one of the 7 wonders of World." </string>
+    <string name="q2">"Ears are responsible for smelling."</string>
+    <string name="q3">"There are 5 sides in a triangle."</string>
+    <string name="q4">"The color of cherries is red."</string>
+    <string name="q5">"Butterflies are not birds."</string>
+    <string name="q6">"CN Tower is one of the 7 wonders of World."</string>
+    <string name="q7">"Mt. Everest is the highest mountain in the world."</string>
+    <string name="question">Question</string>
+    <string name="alert_text1">\ Your score is \</string>
+    <string name="alert_text2">\ out of 7 \</string>
+    <string name="ignore">IGNORE</string>
+    <string name="ok">OK</string>
+    <string name="save">SAVE</string>
+    <string name="menu_3">Reset the Saved Result</string>
+    <string name="menu_2">Select the number of question</string>
+    <string name="menu_1">Get the Average</string>
+    <string name="result">Result</string>
+    <string name="correct">Correct Answer!!!</string>
+    <string name="incorrect">Incorrect Answer.</string>
+    <string name="nothing">There is Nothing in file</string>
+    <string name="remain">Remaining</string>
+    <string name="reset">reset the data</string>
+    <string name="avg">Your average is:" "</string>
+    <string name="avg1">" "out of" "</string>
+    <string name="avg2"> " "attempts</string>
+</resources>
